@@ -1,0 +1,77 @@
+body{
+   background-color:#FFE599;
+}
+h3{
+    text-align: left;
+    color:#660000;
+    background-color: #FFE599;
+}
+.button{
+    background-color: #FF9900;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-color: black;
+    width: 150px;
+    height: 40px;
+}
+.texto{
+    color:#660000;
+    font-size: 1.7em;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: justify;
+}
+
+
+.fonte01{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    /* font-family:'Quicksand';  */
+    font-size: 22px;
+    font-size: 7em;
+    font-weight: bolder;
+    color: #660000;
+}
+
+.fonte02{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    /* font-family:'Quicksand';  */
+    font-size: 22px;
+    font-size: 3.5em;
+    font-weight: bolder;
+    color: #660000;
+}
+
+.fonte003{
+    color: #660000;
+    font-size: 1.2em;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: justify;
+}
+
+.fonte004{
+    color: #660000;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: justify;
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+
+
+.header{
+    background-color: #FF9900;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: bolder;
+    height: 100px;
+}
+
+.center-table{
+    padding-top: 100px;
+}
+
+
+
+
+
+
+
